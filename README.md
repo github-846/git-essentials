@@ -2,7 +2,7 @@
 Visit [gitforeverybody.com](https://gitforeverybody.com/) for free tutorials and the full course.
 
 > This is a course to teach you how to use everyday git.
-CHANGEDDDD
+CHANGEDDDD TWİCEE
 
 ## Contributing
 Welcome to my example Git Essentials repo! If you're here from the course, you have a few options:
