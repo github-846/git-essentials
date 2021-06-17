@@ -1,0 +1,5 @@
+New conflict.txt file added via github
+row 2 
+row three
+row 4
+row 5
